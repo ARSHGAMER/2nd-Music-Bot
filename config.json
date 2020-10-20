@@ -1,0 +1,8 @@
+{
+  "PREFIX": "ep!", 
+  "TOKEN": "NzY2MTg4MDMyMzI2ODkzNTc4.X4fuNQ.J11LW5c1j69zJcXGXmL3pmIc1Dw", 
+  "YOUTUBE_API_KEY": "AIzaSyDrUKrJW2JsikwqNztq2_YcC1HeWUD-xDg",
+  "QUEUE_LIMIT": 0,
+  "COLOR": "BLUE",
+  "inviteURL": "https://discord.com/api/oauth2/authorize?client_id=766188032326893578&permissions=8&scope=bot" 
+}
